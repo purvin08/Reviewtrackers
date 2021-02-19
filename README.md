@@ -1,7 +1,7 @@
 # Reviewtrackers
 A Beautifulsoup library that I'm using to scrape URL for my coding round. 
 
-#Running the project locally
+# Running the project locally
 
 Run the following command in a terminal:
 
